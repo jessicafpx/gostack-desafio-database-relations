@@ -1,4 +1,4 @@
-# 🚀 Desafio GoStack: Fundamentos do Node.js
+# 🚀 Desafio GoStack: Database relations
 Este é um desafio do bootcamp GoStack, da Rocketseat. Trata-se de uma aplicação que permite a criação de clientes, produtos e pedidos, sendo que o cliente pode gerar novos pedidos de compra de produtos, como um pequeno e-commerce.
 
 ## ⚙️ Tecnologias
